@@ -5,7 +5,7 @@
 # our focus are:
 1. **Deep Reinforcement learning (DRL)**
 
-2. **Deep learning on computer vision**
+2. **Deep learning on Object detection**
 
 3. **Deep learning on Natural language**
 
